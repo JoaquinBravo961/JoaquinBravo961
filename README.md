@@ -22,7 +22,7 @@ Bienvenido a mi portfolio técnico. Aquí encontrarás los proyectos en los que 
 #### 🛠️ El Desafío Técnico
 
 
-🔗 **[🕹️ Jugar en Itch.io](Proximamente)**  
+Itch. io Proximamente
 
 
 ---
