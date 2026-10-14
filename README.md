@@ -39,7 +39,7 @@ El proyecto requería cumplir con patrones de diseño estrictos para la aprobaci
 
 * **Imagenes:**
 
-* <img width="1000" height="1540" alt="imagen_promocional_psiquiatra" src="https://github.com/user-attachments/assets/0f372ddf-07af-4d16-91ed-fe9571c52c58" />
+* <img width="217" height="315" alt="imagen_promocional_psiquiatra" src="https://github.com/user-attachments/assets/0f372ddf-07af-4d16-91ed-fe9571c52c58" />
 
 
 
@@ -60,9 +60,9 @@ Todo este proyecto fue un camino de aprendizaje, funcionando como una entrada a 
 
 * **Imagenes:**
 
-* <img width="4480" height="998" alt="document_0" src="https://github.com/user-attachments/assets/18cfd019-8aa3-48cd-8cdd-0d8317760749" />
+* <img width="217" height="315" alt="document_0" src="https://github.com/user-attachments/assets/18cfd019-8aa3-48cd-8cdd-0d8317760749" />
 
-<img width="4320" height="5300" alt="luchi_1" src="https://github.com/user-attachments/assets/32fbed0b-cdbd-4265-b67f-6dd14086b6dc" />
+<img width="217" height="315" alt="luchi_1" src="https://github.com/user-attachments/assets/32fbed0b-cdbd-4265-b67f-6dd14086b6dc" />
 
 
 
@@ -82,7 +82,7 @@ En este caso el principal desafio, ademas del tiempo, fue la conexion de las dis
 
 * **Imagenes:**
 
-* <img width="6320" height="4300" alt="Cartel_frame_1" src="https://github.com/user-attachments/assets/947655ad-d8fc-44b6-acd0-1862202a3f60" />
+* <img width="217" height="315" alt="Cartel_frame_1" src="https://github.com/user-attachments/assets/947655ad-d8fc-44b6-acd0-1862202a3f60" />
 
 <img width="217" height="315" alt="imagen_ganadora-export" src="https://github.com/user-attachments/assets/1bb93b83-3bfd-4684-b082-b54f026bbba0" />
 
