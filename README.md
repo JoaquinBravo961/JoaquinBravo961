@@ -2,7 +2,7 @@
 ### Desarrollador de Videojuegos | Especializado en [Unity]
 ### Modelaje 3D | Especializado en [Blender]
 
-Bienvenido a mi portfolio técnico. Aquí encontrarás los proyectos en los que he participado, mis roles y los códigos fuente detrás de ellos.
+Bienvenido a mi portfolio técnico. Aquí encontrarás los proyectos en los que he participado y mis roles detrás de ellos.
 
 [🌐 Mi Perfil de Itch.io](https://joacus.itch.io/) 
 [💼 Mi LinkedIn](https://www.linkedin.com/in/joaquin-bravo-salomon-162112376/?isSelfProfile=true) 
@@ -50,6 +50,11 @@ El proyecto requería cumplir con patrones de diseño estrictos para la aprobaci
 Todo este proyecto fue un camino de aprendizaje, funcionando como una entrada a un motor en 3D, siendo en mi caso la mayor dificultad la importacion de animaciones para su uso en las cinematicas.
 
 🔗 **[🕹️ Jugar en Itch.io](https://matiariellopez.itch.io/neural-leak)**  
+
+* **Imagenes:**
+* ![Texto alternativo de la imagen](<img width="4320" height="5300" alt="luchi_1" src="https://github.com/user-attachments/assets/f13b0372-dff3-47a4-bd4c-937819481034" />
+)
+
 
 ---
 
