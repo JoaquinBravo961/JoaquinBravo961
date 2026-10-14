@@ -52,8 +52,7 @@ Todo este proyecto fue un camino de aprendizaje, funcionando como una entrada a 
 🔗 **[🕹️ Jugar en Itch.io](https://matiariellopez.itch.io/neural-leak)**  
 
 * **Imagenes:**
-* ![Texto alternativo de la imagen](<img width="4320" height="5300" alt="luchi_1" src="https://github.com/user-attachments/assets/f13b0372-dff3-47a4-bd4c-937819481034" />
-)
+
 
 
 ---
