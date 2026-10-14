@@ -52,6 +52,7 @@ Todo este proyecto fue un camino de aprendizaje, funcionando como una entrada a 
 🔗 **[🕹️ Jugar en Itch.io](https://matiariellopez.itch.io/neural-leak)**  
 
 * **Imagenes:**
+<img width="233" height="300" alt="Tung-Tung-Tung-Sahur-TikTok-Meme-Character-Transparent-233x300" src="https://github.com/user-attachments/assets/91cd2d5f-c718-41f6-9107-f6cafa30faca" />
 
 
 
