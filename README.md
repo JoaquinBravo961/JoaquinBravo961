@@ -100,7 +100,9 @@ En este caso el principal desafio en mi caso fue el salir de mi zona de confort 
 * **Imagenes:**
 
   <img width="217" height="315" alt="VR" src="https://github.com/user-attachments/assets/f9e541a6-2d44-4f32-a832-0e660ebfb32f" />
-<img width="217" height="315" alt="VR" src="https://github.com/user-attachments/assets/1f63f5e3-6a3f-4198-9647-3beca8e623a7" />
+  <img width="217" height="315" alt="2Vr" src="https://github.com/user-attachments/assets/fb8fb3fb-da1c-4332-ab13-5a6dac144dcf" />
+
+
 
 
 
