@@ -86,6 +86,18 @@ En este caso el principal desafio, ademas del tiempo, fue la conexion de las dis
 
 <img width="217" height="315" alt="imagen_ganadora-export" src="https://github.com/user-attachments/assets/1bb93b83-3bfd-4684-b082-b54f026bbba0" />
 
+### 5. COSMOS : Nuevos Horizontes (nombre provisional)
+ **Breve descripción:** Juego en 3D para Realidad virtual desarrollado con el objetivo de reducir el miedo y la catastroficacion en pacientes niñis y adolecentes que estan por pasar por procesos oncologicos, quimioterapias, etc.
+ Eres un astronauta varado en un mundo extraño y deberas recolectar fosiles, insectos, plantas y demas para reconstruir tu nave y descubrir los misterios de ese extraño lugar.
+
+* **Motor / Lenguaje:** Unity / C#
+* **Mi Rol:** Modelos 3D
+* **Equipo / Duración:** Proyecto colaboracion con Universidad Michoacana de medicina 
+  
+#### 🛠️ El Desafío Técnico
+En este caso el principal desafio en mi caso fue el salir de mi zona de confort a la hora de modelar en blender al tener que realizar objetos de ciencia ficcion que resulten agradables a la vista de los niños mientras mantienen una optimizacion y coherencia con el resto de los entornos pero que sean lo suficientemente familiares para su rapida identificacion
+
+
 
 
 ---
