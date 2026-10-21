@@ -97,6 +97,10 @@ En este caso el principal desafio, ademas del tiempo, fue la conexion de las dis
 #### 🛠️ El Desafío Técnico
 En este caso el principal desafio en mi caso fue el salir de mi zona de confort a la hora de modelar en blender al tener que realizar objetos de ciencia ficcion que resulten agradables a la vista de los niños mientras mantienen una optimizacion y coherencia con el resto de los entornos pero que sean lo suficientemente familiares para su rapida identificacion
 
+* **Imagenes:**
+
+  <img width="217" height="315" alt="VR" src="https://github.com/user-attachments/assets/f9e541a6-2d44-4f32-a832-0e660ebfb32f" />
+<img width="217" height="315" alt="VR" src="https://github.com/user-attachments/assets/1f63f5e3-6a3f-4198-9647-3beca8e623a7" />
 
 
 
