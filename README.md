@@ -4,6 +4,7 @@
 
 Bienvenido a mi portfolio técnico. Aquí encontrarás los proyectos en los que he participado y mis roles detrás de ellos.
 
+Link Tree
 https://joaquinbravosalomon.taplink.bio
 
 ---
