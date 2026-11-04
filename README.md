@@ -59,7 +59,7 @@ Todo este proyecto fue un camino de aprendizaje, funcionando como una entrada a 
 
 * **Imagenes:**
 
-* <img width="217" height="315" alt="document_0" src="https://github.com/user-attachments/assets/18cfd019-8aa3-48cd-8cdd-0d8317760749" />
+* <img width="217" height="217" alt="document_0" src="https://github.com/user-attachments/assets/18cfd019-8aa3-48cd-8cdd-0d8317760749" />
 
 <img width="217" height="315" alt="luchi_1" src="https://github.com/user-attachments/assets/32fbed0b-cdbd-4265-b67f-6dd14086b6dc" />
 
