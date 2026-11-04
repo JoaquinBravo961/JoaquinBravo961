@@ -4,9 +4,7 @@
 
 Bienvenido a mi portfolio técnico. Aquí encontrarás los proyectos en los que he participado y mis roles detrás de ellos.
 
-[🌐 Mi Perfil de Itch.io](https://joacus.itch.io/) 
-[💼 Mi LinkedIn](https://www.linkedin.com/in/joaquin-bravo-salomon-162112376/?isSelfProfile=true) 
-[📧 Contacto](joaquinbravosalomon@gmail.com)
+https://joaquinbravosalomon.taplink.bio
 
 ---
 
